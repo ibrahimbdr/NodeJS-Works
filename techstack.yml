@@ -2,7 +2,7 @@ repo_name: ibrahimbdr/NodeJS-Works
 report_id: 3fc0c4c4c3de74710a2505d084020e90
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-20T12:45:10+00:00'
+timestamp: '2024-02-29T20:10:29+00:00'
 requested_by: ibrahimbdr
 provider: github
 branch: main
@@ -3186,12 +3186,12 @@ tools:
   last_updated_by: ibrahim badr
   last_updated_on: 2023-01-15 14:44:00.000000000 Z
   vulnerabilities:
-  - name: NPM IP package vulnerable to Server-Side Request Forgery (SSRF) attacks
+  - name: NPM IP package incorrectly identifies some private IP addresses as public
     cve_id: CVE-2023-42282
     cve_url: https://github.com/advisories/GHSA-78xj-cgh5-2h22
     detected_date: Feb 10
-    severity: high
-    first_patched: 
+    severity: moderate
+    first_patched: 2.0.1
 - name: ipaddr.js
   description: A library for manipulating IPv4 and IPv6 addresses in JavaScript
   package_url: https://www.npmjs.com/ipaddr.js
