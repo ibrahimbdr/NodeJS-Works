@@ -132,7 +132,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ibrahimbdr/NodeJS-Works](https://github.com/ibrahimbdr/NodeJS-Works)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|350<br/>Tools used|02/20/24 <br/>Report generated|
+|350<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -898,7 +898,7 @@ Full tech stack [here](/techstack.md)
 |[immutable](https://www.npmjs.com/immutable)|v3.7.6|01/15/23|ibrahim badr |MIT|N/A|
 |[in-publish](https://www.npmjs.com/in-publish)|v2.0.1|01/15/23|ibrahim badr |ISC|N/A|
 |[inherits](https://www.npmjs.com/inherits)|v2.0.4|01/15/23|ibrahim badr |ISC|N/A|
-|[ip](https://www.npmjs.com/ip)|v2.0.0|01/15/23|ibrahim badr |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (High)|
+|[ip](https://www.npmjs.com/ip)|v2.0.0|01/15/23|ibrahim badr |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (Moderate)|
 |[ipaddr.js](https://www.npmjs.com/ipaddr.js)|v1.9.1|01/15/23|ibrahim badr |MIT|N/A|
 |[is-buffer](https://www.npmjs.com/is-buffer)|v2.0.4|01/15/23|ibrahim badr |MIT|N/A|
 |[is-glob](https://www.npmjs.com/is-glob)|v4.0.3|01/15/23|ibrahim badr |MIT|N/A|
